@@ -23,6 +23,8 @@ public class Hooks
 	public void mortGageSetup()
 	{
 		System.out.println("Clear the entries++++++++++++++++++++");
+		System.out.println("sop1");
+		System.out.println("sop2");
 	}
 	
 	//Beforehook -> Background-> Scenario-> Afterhook
